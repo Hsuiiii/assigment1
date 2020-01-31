@@ -1,0 +1,153 @@
+body{
+  background-color:black;
+  font-family: Helvetica; 
+  color: white;
+  font-size:18px;
+}
+
+.container{
+  position:relative;
+  width: 80px;
+  height:80px;
+  border: 1px solid white;
+  top:100px;
+  margin: auto; 
+  box-sizing: border-box; 
+}
+
+.pixel {
+  content:"";
+  width: 10px; 
+  height: 10px;
+  background-color:white;
+  position:absolute;
+}
+ 
+#firstpixel{
+ left: 20px; 
+}
+
+#secondpixel{
+ left: 30px; 
+}
+#thirdpixel{
+ left: 40px; 
+}
+#forthpixel{
+ left: 10px;
+  top:10px;
+}
+#apixel{
+ left: 20px;
+  top:10px;
+}
+#bpixel{
+ left: 30px;
+  top:10px;
+}
+#cpixel{
+ left: 40px;
+  top:10px;
+}
+#dpixel{
+ left: 50px;
+  top:10px;
+}
+#epixel{
+ left:60px;
+  top:10px;
+}
+#fpixel{
+ left: 50px;
+}
+#gpixel{
+  top:20px;
+}
+#hpixel{
+ left: 10px;
+  top:20px;
+}
+#ipixel{
+ left: 20px;
+  top:20px;
+}
+#jpixel{
+ left: 30px;
+  top:20px;
+}
+#kpixel{
+ left: 60px;
+  top:20px;
+}
+#lpixel{
+ left:70px;
+ top:20px;
+}
+#mpixel{
+ left:70px;
+ top:30px;
+}
+#npixel{
+ left:60px;
+ top:30px;
+}
+#opixel{
+ left:10px;
+ top:30px;
+}
+#ppixel{
+ left:10px;
+ top:40px;
+}
+#qpixel{
+ left:10px;
+ top:50px;
+}
+#rpixel{
+ left:20px;
+ top:60px;
+}
+#spixel{
+ left:30px;
+ top:70px;
+}
+#tpixel{
+ left:40px;
+ top:70px;
+}
+#upixel{
+ left:50px;
+ top:60px;
+}
+#vpixel{
+ left:60px;
+ top:50px;
+}
+#wpixel{
+ left:0px;
+ top:30px;
+}
+#xpixel{
+ left:60px;
+ top:40px;
+}
+#ypixel{
+ left:50px;
+ top:30px;
+}
+#zpixel{
+ left:25px;
+ top:40px;
+}
+#zapixel{
+ left:45px;
+ top:40px;
+}
+#zbpixel{
+ left:60px;
+ top:70px;
+}
+#zcpixel{
+ left:10px;
+ top:70px;
+}
